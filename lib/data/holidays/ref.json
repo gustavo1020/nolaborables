@@ -2,17 +2,20 @@
   "año-nuevo": {
     "motivo": "Año Nuevo",
     "tipo": "inamovible",
-    "info": "https://es.wikipedia.org/wiki/A%C3%B1o_Nuevo"
+    "info": "https://es.wikipedia.org/wiki/A%C3%B1o_Nuevo",
+    "idTipo": "BCRA"
   },
   "memoria-verdad-justicia": {
     "motivo": "Día Nacional de la Memoria por la Verdad y la Justicia",
     "tipo": "inamovible",
-    "info": "https://es.wikipedia.org/wiki/D%C3%ADa_Nacional_de_la_Memoria_por_la_Verdad_y_la_Justicia"
+    "info": "https://es.wikipedia.org/wiki/D%C3%ADa_Nacional_de_la_Memoria_por_la_Verdad_y_la_Justicia",
+    "idTipo": "BCRA"
   },
   "veteranos-malvinas": {
     "motivo": "Día del Veterano y de los Caídos en la Guerra de Malvinas",
     "tipo": "inamovible",
-    "info":  "https://es.wikipedia.org/wiki/D%C3%ADa_del_Veterano_y_de_los_Ca%C3%ADdos_en_la_Guerra_de_Malvinas"
+    "info":  "https://es.wikipedia.org/wiki/D%C3%ADa_del_Veterano_y_de_los_Ca%C3%ADdos_en_la_Guerra_de_Malvinas",
+    "idTipo": "BCRA"
   },
   "armenia": {
     "motivo": "Día de acción por la tolerancia y el respeto entre los pueblos",
@@ -24,7 +27,8 @@
   "trabajador": {
     "motivo": "Día del Trabajador",
     "tipo": "inamovible",
-    "info": "https://es.wikipedia.org/wiki/D%C3%ADa_Internacional_de_los_Trabajadores"
+    "info": "https://es.wikipedia.org/wiki/D%C3%ADa_Internacional_de_los_Trabajadores",
+    "idTipo": "BCRA"
   },
   "revolucion-mayo": {
     "motivo": "Día de la Revolución de Mayo",
@@ -34,44 +38,52 @@
   "belgrano": {
     "motivo": "Paso a la Inmortalidad del General Manuel Belgrano",
   	"tipo": "inamovible",
-    "info": "https://es.wikipedia.org/wiki/D%C3%ADa_de_la_Bandera_(Argentina)"
+    "info": "https://es.wikipedia.org/wiki/D%C3%ADa_de_la_Bandera_(Argentina)",
+    "idTipo": "BCRA"
   },
   "independencia": {
     "motivo": "Día de la Independencia",
   	"tipo": "inamovible",
-    "info": "https://es.wikipedia.org/wiki/Declaraci%C3%B3n_de_independencia_de_la_Argentina"
+    "info": "https://es.wikipedia.org/wiki/Declaraci%C3%B3n_de_independencia_de_la_Argentina",
+    "idTipo": "BCRA"
   },
   "inmaculada-maria": {
     "motivo": "Inmaculada Concepción de María",
     "tipo": "inamovible",
-    "info": "https://es.wikipedia.org/wiki/Inmaculada_Concepci%C3%B3n"
+    "info": "https://es.wikipedia.org/wiki/Inmaculada_Concepci%C3%B3n",
+    "idTipo": "BCRA"
   },
   "navidad": {
     "motivo": "Navidad",
   	"tipo": "inamovible",
-    "info": "https://es.wikipedia.org/wiki/Navidad"
+    "info": "https://es.wikipedia.org/wiki/Navidad",
+    "idTipo": "BCRA"
   },
   "carnaval": {
     "motivo": "Carnaval",
   	"tipo": "inamovible",
-    "info": "https://es.wikipedia.org/wiki/Carnaval"
+    "info": "https://es.wikipedia.org/wiki/Carnaval",
+    "idTipo": "BCRA"
   },
   "puente-turistico": {
     "motivo": "Feriado Puente Turístico",
   	"tipo": "puente",
-    "info": "https://es.wikipedia.org/wiki/Puente_festivo"
+    "info": "https://es.wikipedia.org/wiki/Puente_festivo",
+    "idTipo": "BCRA"
   },
   "jueves-santo": {
     "motivo": "Jueves Santo Festividad Cristiana",
   	"tipo": "nolaborable",
     "opcional": "religion",
     "religion": "cristianismo",
-    "info": "https://es.wikipedia.org/wiki/Jueves_Santo"
+    "info": "https://es.wikipedia.org/wiki/Jueves_Santo",
+    "idTipo": "BCRA"
   },
   "viernes-santo": {
     "motivo": "Viernes Santo Festividad Cristiana",
   	"tipo": "inamovible",
-    "info": "https://es.wikipedia.org/wiki/Viernes_Santo"
+    "info": "https://es.wikipedia.org/wiki/Viernes_Santo",
+    "idTipo": "BCRA"
   },
   "pascuas-judias": {
   	"motivo": "Pascuas Judías",
@@ -110,7 +122,8 @@
     "motivo": "Día de la Soberanía Nacional",
   	"tipo": "trasladable",
     "original": "20-11",
-    "info": "https://es.wikipedia.org/wiki/D%C3%ADa_de_la_Soberan%C3%ADa_Nacional"
+    "info": "https://es.wikipedia.org/wiki/D%C3%ADa_de_la_Soberan%C3%ADa_Nacional",
+    "idTipo": "BCRA"
   },
   "bicentenario-bandera": {
     "motivo": "Día del Bicentenario de la Creación y Primera Jura de la Bandera Argentina",
@@ -136,7 +149,8 @@
     "motivo": "Paso a la Inmortalidad del Gral. Don Martín Güemes",
     "tipo": "trasladable",
   	"original": "17-06",
-    "info": "https://es.wikipedia.org/wiki/Mart%C3%ADn_Miguel_de_G%C3%BCemes"
+    "info": "https://es.wikipedia.org/wiki/Mart%C3%ADn_Miguel_de_G%C3%BCemes",
+    "idTipo": "BCRA"
   },
   "fiesta-ayuno-ramadan": {
     "motivo": "Fiesta de la Ruptura del Ayuno del Sagrado Mes de Ramadán",
