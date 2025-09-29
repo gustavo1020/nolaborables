@@ -28,7 +28,7 @@
   }, 
   {
     "mes": "junio",
-    "10": "fiesta-sacrificio",
+    "06": "fiesta-sacrificio",
     "16": "martin-guemes",
     "20": "belgrano",
     "26": "año-nuevo-islamico"
@@ -49,7 +49,7 @@
   {
     "mes": "octubre",
     "02": "dia-perdon-judio",
-    "12": "diversidad"
+    "10": "diversidad-cultural"
   }, 
   {
     "mes": "noviembre",
