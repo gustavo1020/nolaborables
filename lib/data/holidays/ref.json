@@ -172,5 +172,10 @@
     "opcional": "religion",
   	"religion": "musulman",
     "info": "https://es.wikipedia.org/wiki/A%C3%B1o_nuevo_musulm%C3%A1n"
+  },
+  "dia-bancario": {
+    "motivo": "Día del Bancario",
+    "tipo": "inamovible",
+    "info": "https://es.wikipedia.org/wiki/D%C3%ADa_del_Bancario"
   }
 }
