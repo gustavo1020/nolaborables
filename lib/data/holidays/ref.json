@@ -177,5 +177,11 @@
     "motivo": "Día del Bancario",
     "tipo": "inamovible",
     "info": "https://es.wikipedia.org/wiki/D%C3%ADa_del_Bancario"
+  },
+  "asueto-31-diciembre": {
+    "motivo": "Asueto Nacional - 31 de Diciembre",
+    "tipo": "inamovible",
+    "info": "https://es.wikipedia.org/wiki/%C3%9Altimo_d%C3%ADa_del_a%C3%B1o",
+    "idTipo": "BCRA"
   }
 }
